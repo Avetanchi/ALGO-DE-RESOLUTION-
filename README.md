@@ -5,6 +5,7 @@ ALGORITHME DE RESOLUTION POUR TESTER LA VALIDITE D UNE FORMULE BIEN FORMEE
 equivalent -> "equ"
 
 implique -> "implique"
+
 et -> "et"
 
 ou  -> "ou"
