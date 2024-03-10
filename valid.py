@@ -1,4 +1,4 @@
-clause = input("enter clause: ")
+clause = input("entrer une fbf: ")
 l = clause.split(" ")
 i = 0
 while i < len(l) - 1:
@@ -111,9 +111,9 @@ while not existe_clause_vide(ensemble) and existe_paire_reductible(ensemble):
 
 print("ensemble final :", ensemble)
 if existe_clause_vide(ensemble):
-    print("fbf valide")
+    print("fbf est valide")
 else:
-    print("fbf non valide")
+    print("fbf est non valide")
 
 
 
