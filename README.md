@@ -30,6 +30,7 @@ Début
 Chercher des clauses résolvantes ;
 
 Ajouter ce résultat à la liste des clauses ;
+
 Fintantque
 
 Si
